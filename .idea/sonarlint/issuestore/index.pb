@@ -1,3 +1,19 @@
 
 @
 build.gradle.kts,d/b/dbcff70658daf80b53ce624f6adcaa529df5ed8d
+U
+%src/main/kotlin/day01/generic/Cage.kt,c/f/cf3baa091fa01d2344e905926a140967b665711e
+W
+'src/main/kotlin/day01/generic/Animal.kt,8/3/836f08680b59dcf17219666c54c347b52b2147e4
+V
+&src/main/kotlin/day01/generic/Cage2.kt,7/a/7a7b865e99f70d52045c10fa38f4d03776a76f7f
+U
+%src/main/kotlin/day01/generic/Main.kt,0/9/09fb87251f7402192f8143c8139142bdf7ec9bcb
+V
+&src/main/kotlin/day01/generic/Cage3.kt,e/7/e7da447b3f829244181fecb5ef3c3d25d560bb34
+V
+&src/main/kotlin/day01/generic/Cage4.kt,e/4/e45ec9b742e7609b4853c56833d55dcf587345fc
+V
+&src/main/kotlin/day01/generic/Cage5.kt,4/2/42fa060658eff97fd67ff54ba4045b9818d48e4b
+Z
+*src/main/kotlin/day01/generic/TypeErase.kt,c/4/c4339b15c33ecc29dcf4484436d99a1ca18dc5b2
